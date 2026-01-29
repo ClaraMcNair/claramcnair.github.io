@@ -1,0 +1,88 @@
+{"contents": [
+  {
+    "id": 1,
+    "thumbnail": "https://cdn.cosmos.so/e8bbe6b1-d6a8-4e22-82d4-83fb7f72b52a?format=webp&w=1168",
+    "title": "Long Project Title, Building Empathy with Nature",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla condimentum, tellus ut pellentesque pellentesque, est neque sollicitudin purus, et facilisis risus arcu malesuada nunc. Donec nisl est, consequat at vulputate quis, ultricies at turpis. Donec eros dolor, sollicitudin id erat eu, fringilla ultrices elit. Donec est justo, iaculis a ex ac, vulputate lacinia elit. Vestibulum purus lorem, fringilla vel porttitor at, semper id sem. Aenean suscipit eu dui nec congue. Nam gravida tellus eu tortor aliquam tempus. Curabitur eget fringilla mi, sed aliquam nisl. Phasellus libero augue, finibus ut turpis sed, egestas tristique neque. Pellentesque vitae risus pulvinar, blandit urna eu, tristique tortor. Nam sit amet ultrices metus, eget mollis quam.",
+    "attributes": ["cool", "AI", "VR"],
+    "content": [
+      {
+        "type": "img",
+        "source": "https://cdn.cosmos.so/27f6b800-7a05-4376-97e6-82a96ced3e61?format=jpeg",
+        "alt": "dummy image",
+        "size": "col-span-full"
+      },
+      {
+        "type": "text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla condimentum, tellus ut pellentesque pellentesque, est neque sollicitudin purus, et facilisis risus arcu malesuada nunc. Donec nisl est, consequat at vulputate quis, ultricies at turpis. Donec eros dolor, sollicitudin id erat eu, fringilla ultrices elit. Donec est justo, iaculis a ex ac, vulputate lacinia elit. Vestibulum purus lorem, fringilla vel porttitor at, semper id sem. Aenean suscipit eu dui nec congue. Nam gravida tellus eu tortor aliquam tempus. Curabitur eget fringilla mi, sed aliquam nisl. Phasellus libero augue, finibus ut turpis sed, egestas tristique neque. Pellentesque vitae risus pulvinar, blandit urna eu, tristique tortor. Nam sit amet ultrices metus, eget mollis quam.",
+        "size": "col-span-2"
+      },
+      {
+        "type": "img",
+        "source": "/dummy-img-3.jpg",
+        "alt": "dummy image",
+        "size": "col-span-4"
+      }
+    ]
+  },
+  {
+    "id": "what-we-cherish",
+    "thumbnail": "https://cdn.cosmos.so/28242dc0-d8aa-4fd6-8922-4a5aca3cd709?format=webp&w=1168",
+    "title": "What We Cherish, an experiment about softer data, sound, and storytelling ",
+    "description": "this is a nice description",
+    "attributes": ["AI", "storytelling"],
+    "content": [
+      {
+        "type": "video",
+        "source": "/cherish_final_small.mp4",
+        "alt": "dummy image"
+      },
+      {
+        "type": "text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla condimentum, tellus ut pellentesque pellentesque, est neque sollicitudin purus, et facilisis risus arcu malesuada nunc. Donec nisl est, consequat at vulputate quis, ultricies at turpis. Donec eros dolor, sollicitudin id erat eu, fringilla ultrices elit. Donec est justo, iaculis a ex ac, vulputate lacinia elit. Vestibulum purus lorem, fringilla vel porttitor at, semper id sem. Aenean suscipit eu dui nec congue. Nam gravida tellus eu tortor aliquam tempus. Curabitur eget fringilla mi, sed aliquam nisl. Phasellus libero augue, finibus ut turpis sed, egestas tristique neque. Pellentesque vitae risus pulvinar, blandit urna eu, tristique tortor. Nam sit amet ultrices metus, eget mollis quam."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://cdn.cosmos.so/7de19aa8-f988-4b64-a643-67ccc421b864?format=webp&w=1168",
+    "title": "project 3",
+    "description": "this is a nice description",
+    "attributes": ["cool", "AI", "VR"]
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://cdn.cosmos.so/48a9a515-45e1-4d45-b5de-6024157ea032?format=webp&w=1168",
+    "title": "project 4",
+    "description": "this is a nice description",
+    "attributes": ["cool", "AI", "VR"]
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://cdn.cosmos.so/775e7aab-e1eb-4747-87f1-17d4197fda21?format=webp&w=1168",
+    "title": "project 5",
+    "description": "this is a nice description",
+    "attributes": ["cool", "AI", "VR"]
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://cdn.cosmos.so/a93dbf06-3141-44ef-8c10-0ca86ff2167e?format=webp&w=1168",
+    "title": "project 6",
+    "description": "this is a nice description",
+    "attributes": ["cool", "AI", "VR"]
+  },
+  {
+    "id": 7,
+    "thumbnail": "https://cdn.cosmos.so/51310106-407f-409a-bd40-d6a06cf402ba?format=webp&w=1168",
+    "title": "project 7",
+    "description": "this is a nice description",
+    "attributes": ["cool", "AI", "VR"]
+  },
+  {
+    "id": 8,
+    "thumbnail": "https://cdn.cosmos.so/fd17021a-9eed-4b08-953c-f31da56a9211?format=webp&w=1168",
+    "title": "project 8",
+    "description": "this is a nice description",
+    "attributes": ["cool", "AI", "VR"]
+  }
+]}
